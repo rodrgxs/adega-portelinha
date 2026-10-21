@@ -14,6 +14,14 @@
   // São hospedadas por terceiros e têm fallback local quando o servidor restringe acesso.
   // Para uso comercial definitivo, substituir por fotos próprias ou licenciadas e armazená-las localmente.
   const sourcedPhotos = {
+    // Novas fotos com embalagem e quantidade correspondentes às descrições do catálogo.
+    // Fontes externas podem restringir hotlink; não marcar como verificadas comercialmente.
+    'Heineken 350ML C/ 12unid':'https://down-br.img.susercontent.com/file/br-11134207-7r98o-lq6steoav7zb16',
+    'Heineken Long Neck 330ML':'https://a-static.mlcdn.com.br/1500x1500/title-reference/magazineluiza/225339400/168394b8a1bc666952c311a15825079a.jpg',
+    'Heineken Long Neck 330ML ZERO':'https://m.media-amazon.com/images/I/71xah%2BzNq2L._AC_SL1500_.jpg',
+    'Heineken 269ML 0 alcool':'https://acdn-us.mitiendanube.com/stores/001/043/122/products/heineken-pack_1-png-a845f1ed6f1761e50017686668534927-480-0.webp',
+    'Império Ultra 210ml cx c/18un':'https://carrefourbr.vtexassets.com/arquivos/ids/192321427/image-0.jpg?v=638833482386330000',
+    'Cerveja Heineken 269ml':'https://io.convertiez.com.br/m/superpaguemenos/shop/products/images/52624/medium/cerveja-heineken-puro-malte-lager-269ml_99055.png',
     'Skol 269ml':'https://www.paodeacucar.com/img/uploads/1/326/33043326.jpg',
     'Spaten 350ML':'https://s3-sa-east-1.amazonaws.com/files-sc.sigecloud.com.br/Producao/34ef3c37-95cf-49f4-bcc8-41bce77d8188/ImagensProdutos/65582c5117243bc1ad8d7369_600x600.jpeg',
     'Itaipava 269ml':'https://assets.instabuy.app.br/ib.item.image.large/l-901a04c20da04fa19f89eb20133e24f0.jpeg',
