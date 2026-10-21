@@ -32,6 +32,8 @@
     'White Horse 1L':'https://assets.instabuy.app.br/ib.item.image.large/l-b27fc3feb8c541c1a48444c2d9618590.jpeg',
     'Ballantines 1L':'https://www.fiestapero.com/nouveausite/http%3A/www.fiestapero.com/img/Ballantines-1L.jpg'
   };
+  // Mapa de imagens do catálogo (baixadas localmente quando disponíveis).
+  Object.assign(sourcedPhotos, window.PORTELINHA_FOTOS || {});
   const safeHtml = value => String(value).replace(/[&<>"']/g, s=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
 
   // A fotografia deve corresponder ao SKU; para os demais itens manter o fallback existente.
@@ -46,7 +48,12 @@
   const style = document.createElement('style');
   style.textContent = `
     :root{--brand:#f4f4f4;--dark:#151515;--ink:#191919;--paper:#f8f8f8}
-    .hero{background:#151515}.hero:before{background:#303030}.hero h1 em{color:#fff}
+    .hero{background:#151515;color:#fff}.hero:before{background:#303030}
+    .hero h1,.hero h1 em{color:#fff}
+    .hero p{color:#d9d9d9}.hero-note{color:#c5c5c5}
+    .hero-art{position:relative}
+    .hero-art::after{content:'';position:absolute;top:0;bottom:0;left:0;width:26%;pointer-events:none;background:linear-gradient(90deg,rgba(21,21,21,.90),rgba(21,21,21,0))}
+    @media(max-width:720px){.hero-art::after{display:none}}
     .hero-tag,.hero-floating,.hero-bottom-tag{color:#eee}.hero-tag:before{background:#eee}
     .primary-btn{background:#fff;color:#101010}.primary-btn:hover{background:#e8e8e8}
     .cart-badge{background:#fff;color:#111}.cart-btn{background:#111}.cart-btn:hover{background:#333}

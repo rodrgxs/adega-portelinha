@@ -1,0 +1,767 @@
+[
+  {
+    "name": "Skol 269ml",
+    "category": "Caixas de Cerveja",
+    "id": "skol-269ml",
+    "url": "https://assets.instabuy.app.br/ib.item.image.large/l-9b8114f926ad40febb9230bc84de0cc5.jpeg",
+    "source": "Supermercado Marinho",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Cerveja Spaten 269ml",
+    "category": "Caixas de Cerveja",
+    "id": "cerveja-spaten-269ml",
+    "url": "https://www.arenaatacado.com.br/on/demandware.static/-/Sites-storefront-catalog-sv/default/dw566a986f/Produtos/972509-7891991303347-cerveja%20nacional%20spaten%20munich%20puro%20malte%20lata%20269ml-spaten-1.jpg",
+    "source": "Arena Atacado",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Original 269ml",
+    "category": "Caixas de Cerveja",
+    "id": "original-269ml",
+    "url": "https://comper.vteximg.com.br/arquivos/ids/237171-1000-1000/7891991295086--1-.jpg?v=638527689384470000",
+    "source": "Comper",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Império 269ml",
+    "category": "Caixas de Cerveja",
+    "id": "imperio-269ml",
+    "url": "https://www.extramercado.com.br/img/uploads/1/933/33254933.png",
+    "source": "Extra Mercado",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Itaipava 269ml",
+    "category": "Caixas de Cerveja",
+    "id": "itaipava-269ml",
+    "url": "https://www.jauserve.com.br/dw/image/v2/BFJL_PRD/on/demandware.static/-/Sites-jauserve-master/default/dwbd3ab317/7897395040307.png?sw=1800",
+    "source": "Jaú Serve",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Itaipava 350ml",
+    "category": "Caixas de Cerveja",
+    "id": "itaipava-350ml",
+    "url": "https://www.arenaatacado.com.br/on/demandware.static/-/Sites-storefront-catalog-sv/default/dw5a9853eb/Produtos/12892-7897395020101-cerveja%20itaipava%20lata%20350ml-itaipava-1.jpg",
+    "source": "Arena Atacado",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Spaten 350ML",
+    "category": "Caixas de Cerveja",
+    "id": "spaten-350ml",
+    "url": "https://images.tcdn.com.br/img/img_prod/1427026/cerveja_spaten_12x350ml_lata_871_1_22c96f5e9ab3bd5c801e1f570ec174b7.jpeg",
+    "source": "Baratão Atacado",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Corona Long Neck Caixa c/ 6unid.",
+    "category": "Caixas de Cerveja",
+    "id": "corona-long-neck-caixa-c-6unid",
+    "url": "https://covabra.vtexassets.com/arquivos/ids/561900/82896.jpg?v=638925544262730000",
+    "source": "Covabra",
+    "match": "unidade de referência; kit com 6",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Corona Long Neck ZERO c/ 6unid.",
+    "category": "Caixas de Cerveja",
+    "id": "corona-long-neck-zero-c-6unid",
+    "url": "https://bemol.vtexassets.com/arquivos/ids/553584/380973.jpg?v=639045323471430000",
+    "source": "Bemol",
+    "match": "unidade Corona Cero de referência; kit com 6",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Budweiser lata 269ML",
+    "category": "Caixas de Cerveja",
+    "id": "budweiser-lata-269ml",
+    "url": "https://redemix.vteximg.com.br/arquivos/ids/211624-1000-1000/7891991011877.jpg?v=638350614956500000",
+    "source": "Redemix",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Budweiser Long Neck 330ML",
+    "category": "Caixas de Cerveja",
+    "id": "budweiser-long-neck-330ml",
+    "url": "https://www.extramercado.com.br/img/uploads/1/452/33197452.png",
+    "source": "Extra Mercado",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Amstel 269ML",
+    "category": "Caixas de Cerveja",
+    "id": "amstel-269ml",
+    "url": "https://savegnagoio.vtexassets.com/arquivos/ids/468595/CervejaAmstel269mlLata1.jpg?v=638908583112430000",
+    "source": "Savegnago",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Heineken 269ML C/ 8unid",
+    "category": "Caixas de Cerveja",
+    "id": "heineken-269ml-c-8unid",
+    "url": "https://http2.mlstatic.com/D_NQ_NP_2X_877963-MLB50255912376_062022-F.jpg",
+    "source": "Mercado Livre",
+    "match": "pack 8",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Heineken 350ML C/ 12unid",
+    "category": "Caixas de Cerveja",
+    "id": "heineken-350ml-c-12unid",
+    "url": "https://amigao.vtexassets.com/arquivos/ids/157273/Pack-Cerveja-Lager-Heineken-Lata-350ml-com-12-unidades.jpg?v=638724759913300000",
+    "source": "Amigão",
+    "match": "pack 12",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Heineken Long Neck 330ML",
+    "category": "Caixas de Cerveja",
+    "id": "heineken-long-neck-330ml",
+    "url": "https://savegnagoio.vtexassets.com/arquivos/ids/468401/CervejaLongNeck330mlHeineken2.jpg?v=639008889654500000",
+    "source": "Savegnago",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Heineken Long Neck 330ML ZERO",
+    "category": "Caixas de Cerveja",
+    "id": "heineken-long-neck-330ml-zero",
+    "url": "https://modelodiskbebidas.meucatalogofacil.com/_core/_uploads/756/2021/04/1257040421hdha9gihcc.jpg",
+    "source": "Meu Catálogo Fácil",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Heineken 269ML 0 alcool",
+    "category": "Caixas de Cerveja",
+    "id": "heineken-269ml-0-alcool",
+    "url": "https://superadega.agilecdn.com.br/377048.jpg?v=512-2505491681",
+    "source": "STO Atacadista",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Original C/ 8unid.",
+    "category": "Caixas de Cerveja",
+    "id": "original-c-8unid",
+    "url": "https://comper.vteximg.com.br/arquivos/ids/237171-1000-1000/7891991295086--1-.jpg?v=638527689384470000",
+    "source": "Comper",
+    "match": "unidade de referência; caixa com 8",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Império Ultra 210ml cx c/18un",
+    "category": "Caixas de Cerveja",
+    "id": "imperio-ultra-210ml-cx-c-18un",
+    "url": "https://carrefourbr.vtexassets.com/arquivos/ids/192321427/image-0.jpg?v=638833482386330000",
+    "source": "Carrefour",
+    "match": "fonte previamente indicada; conferir caixa",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Cerveja Heineken 269ml",
+    "category": "Cerveja Solta",
+    "id": "cerveja-heineken-269ml",
+    "url": "https://gbarbosa.vtexassets.com/arquivos/ids/222894/6553639a06598519a772f5fc.jpg?v=638355606063200000",
+    "source": "GBarbosa",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Cerveja Amstel Puro Malte 269ml",
+    "category": "Cerveja Solta",
+    "id": "cerveja-amstel-puro-malte-269ml",
+    "url": "https://savegnagoio.vtexassets.com/arquivos/ids/468595/CervejaAmstel269mlLata1.jpg?v=638908583112430000",
+    "source": "Savegnago",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Cerveja Heineken Lata Sleek 350ml",
+    "category": "Cerveja Solta",
+    "id": "cerveja-heineken-lata-sleek-350ml",
+    "url": "https://savegnagoio.vtexassets.com/arquivos/ids/495836/CervejaLataSleek350mlHeineken1.jpg?v=639112529154570000",
+    "source": "Savegnago",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Cerveja Budweiser American Lager 269ml Lata",
+    "category": "Cerveja Solta",
+    "id": "cerveja-budweiser-american-lager-269ml-lata",
+    "url": "https://redemix.vteximg.com.br/arquivos/ids/211624-1000-1000/7891991011877.jpg?v=638350614956500000",
+    "source": "Redemix",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Energetico Vibe 2l",
+    "category": "Energéticos",
+    "id": "energetico-vibe-2l",
+    "url": "https://assets.instabuy.app.br/ib.item.image.large/l-06f2a3a710c946a68b94c29ea372a9b6.jpeg",
+    "source": "Log Drinks",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Red Bull Tropical",
+    "category": "Energéticos",
+    "id": "red-bull-tropical",
+    "url": "https://bistek.vtexassets.com/arquivos/ids/209038/1694995-Energetico-Frutas-Tropicais-Red-Bull-250ml.png?v=639032321268300000",
+    "source": "Bistek",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Red Bull Melancia",
+    "category": "Energéticos",
+    "id": "red-bull-melancia",
+    "url": "https://www.supermercadonacional.com.br/upload/service/energetico-red-bull-energy-drink-melancia-edition-250-ml-1.jpg",
+    "source": "Nacional",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Red Bull Tradicional",
+    "category": "Energéticos",
+    "id": "red-bull-tradicional",
+    "url": "https://cdn1.staticpanvel.com.br/produtos/15/304940-15.jpg",
+    "source": "Panvel",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Red Bull Blue",
+    "category": "Energéticos",
+    "id": "red-bull-blue",
+    "url": "https://drogariasp.vteximg.com.br/arquivos/ids/677448-1000-1000/608530---energetico-red-bull-blue-edition-blueberry-250ml.jpg?v=637908226605230000",
+    "source": "Drogaria São Paulo",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Red Bull Morango e Pêssego",
+    "category": "Energéticos",
+    "id": "red-bull-morango-e-pessego",
+    "url": "https://images.tcdn.com.br/img/img_prod/1140249/red_bull_morango_amp_pessego_edition_250ml_713_1_8109bb3689ee931d6f187010242d8f8f.jpg",
+    "source": "Front Bebidas",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Santomé",
+    "category": "Vinhos",
+    "id": "santome",
+    "url": "https://cdn.awsli.com.br/2500x2500/2577/2577773/produto/216617949f27d736a7e.jpg",
+    "source": "Compre Bebidas",
+    "match": "tinto suave 1L - variante a confirmar",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Pérgola",
+    "category": "Vinhos",
+    "id": "pergola",
+    "url": "https://www.efacil.com.br/wcsstore/ExtendedSitesCatalogAssetStore/Imagens/1000/4500206_02.jpg",
+    "source": "eFácil",
+    "match": "tinto suave 1L - variante a confirmar",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Santomé Seco 1L",
+    "category": "Vinhos",
+    "id": "santome-seco-1l",
+    "url": "https://destro.fbitsstatic.net/img/p/vinho-santome-tinto-seco-1l-72783/259319.jpg?h=1000&qs=ignore&v=202501231555&w=1000",
+    "source": "Destro",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Vilena Branco Suave 1L",
+    "category": "Vinhos",
+    "id": "vilena-branco-suave-1l",
+    "url": "https://a-static.mlcdn.com.br/800x800/vinho-vilena-branco-suave-niagara-1000ml-vinicola-vilena/rbbebidasdistribuidora/883p/4cae0341e319324c4fb6c934a051a175.jpeg",
+    "source": "Magazine Luiza",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Draft White",
+    "category": "Vinhos",
+    "id": "draft-white",
+    "url": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/934986.jpg",
+    "source": "Tenda Atacado",
+    "match": "600ml; confirmar SKU",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Draft Vinho Trad.",
+    "category": "Vinhos",
+    "id": "draft-vinho-trad",
+    "url": "https://centralmaxsupermercados.com.br/imagens_site/7896494207314.jpg",
+    "source": "Central Max",
+    "match": "600ml; confirmar SKU",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Draft de Pêssego",
+    "category": "Vinhos",
+    "id": "draft-de-pessego",
+    "url": "https://courier-images-prod.imgix.net/produc_variant/00011472_2b84e7bf-2034-42d6-b3ac-da79fa7b33a9.jpg?auto=compress%2Cformat&fit=max&h=600&w=600",
+    "source": "Zé Delivery",
+    "match": "Draft pêssego; conferir volume exato",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Draft de Ice",
+    "category": "Vinhos",
+    "id": "draft-de-ice",
+    "url": "https://phygital-files.mercafacil.com/catalogo/uploads/produto/chopp_ice_draft_600ml_9f281368-27cc-4401-b53c-9145c0a42564.jpg",
+    "source": "Armazém da Maria",
+    "match": "600ml; confirmar SKU",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "CAIPIRINHA DE AÇAÍ 1L",
+    "category": "Caipirinhas 1Litro",
+    "id": "caipirinha-de-acai-1l",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "CAIPIRINHA DE AÇAÍ 700ML",
+    "category": "CAIPIRINHAS 700ml",
+    "id": "caipirinha-de-acai-700ml",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "Black White",
+    "category": "Whisky",
+    "id": "black-white",
+    "url": "https://corpovino.com/cdn/shop/files/0014_Whisky-Black-_-White-Scotch-1000-ml.webp?v=1778380190&width=1946",
+    "source": "Corpovino",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Jack Daniel's Tradicional",
+    "category": "Whisky",
+    "id": "jack-daniel-s-tradicional",
+    "url": "https://www.jauserve.com.br/dw/image/v2/BFJL_PRD/on/demandware.static/-/Sites-jauserve-master/default/dw60b2aded/7898945131025.png?sw=1800",
+    "source": "Jaú Serve",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Jack Daniel's 1L Honey",
+    "category": "Whisky",
+    "id": "jack-daniel-s-1l-honey",
+    "url": "https://carrefourbrfood.vtexassets.com/arquivos/ids/194169489/9517677_1.jpg?v=638894063029700000",
+    "source": "Carrefour",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Jack Daniel's Fire 1L",
+    "category": "Whisky",
+    "id": "jack-daniel-s-fire-1l",
+    "url": "https://www.aeliadutyfree.com.au/media/catalog/product/1/0/100489934_d758.jpg?bg-color=255%2C255%2C255&canvas=700%3A700&fit=bounds&height=700&optimize=medium&width=700",
+    "source": "Aelia Duty Free",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Jack Daniel's apple 1L",
+    "category": "Whisky",
+    "id": "jack-daniel-s-apple-1l",
+    "url": "https://spiritcdn.spiritshop.com.br/adegaportofino/image/cache/data/up_system/product-52064/-462-1500x1500.jpg",
+    "source": "Adega Portofino",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Jack Daniel's Blueberry 1L",
+    "category": "Whisky",
+    "id": "jack-daniel-s-blueberry-1l",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "White Horse 1L",
+    "category": "Whisky",
+    "id": "white-horse-1l",
+    "url": "https://cdn.awsli.com.br/1000x1000/91/91186/produto/3259990/78662dba7a.jpg",
+    "source": "Bebidas BH Delivery",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Ballantines 1L",
+    "category": "Whisky",
+    "id": "ballantines-1l",
+    "url": "https://superpao.vtexassets.com/arquivos/ids/463197/Whisky-Ballantine-s-Finest-Blended-Escoces---1-litro.jpg?v=638673037433200000",
+    "source": "Superpão",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Buchanan's 1L",
+    "category": "Whisky",
+    "id": "buchanan-s-1l",
+    "url": "https://zaffari.vtexassets.com/arquivos/ids/297908/1010855-00.jpg?v=639008139977330000",
+    "source": "Zaffari",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Old Parr 1L",
+    "category": "Whisky",
+    "id": "old-parr-1l",
+    "url": "https://bistek.vtexassets.com/arquivos/ids/192563-600-600?aspect=true&height=600&v=638537986842770000&width=600",
+    "source": "Bistek",
+    "match": "Old Parr 1L",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Ziggy",
+    "category": "Tabacaria",
+    "id": "ziggy",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "Carvão",
+    "category": "Tabacaria",
+    "id": "carvao",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "Alumínio Kavalera Unid.",
+    "category": "Tabacaria",
+    "id": "aluminio-kavalera-unid",
+    "url": "https://cdn.awsli.com.br/2500x2500/2455/2455278/produto/381590644/kavalera-3-1v1xa93yw5.png",
+    "source": "Arahat",
+    "match": "pacote 50 folhas; conferir unidade",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Seda Longa Sadhu Marrom",
+    "category": "Tabacaria",
+    "id": "seda-longa-sadhu-marrom",
+    "url": "https://images.tcdn.com.br/img/img_prod/693228/caixa_seda_sadhu_king_size_brown_evening_large_2427_4_20201124084318.jpg",
+    "source": "One Tabacaria",
+    "match": "foto da marca Sadhu marrom; embalagem atacado deve ser confirmada",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Seda Sadhu longa Branca",
+    "category": "Tabacaria",
+    "id": "seda-sadhu-longa-branca",
+    "url": "https://cdn.awsli.com.br/800x800/2708/2708399/produto/323777455/seda-sadhu-king-size-_1-qkynxuyz8r.webp",
+    "source": "Dubai Tabacaria",
+    "match": "foto de seda King Size branca com embalagem preta; confirmar variante",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Piteira Sadhu X-large Marrom",
+    "category": "Tabacaria",
+    "id": "piteira-sadhu-x-large-marrom",
+    "url": "https://upload-arquivos.s3-sa-east-1.amazonaws.com/img/produtos_fotos/16074/4c7b6e726f48e60d3e06f619b1b4dd8d.png",
+    "source": "Sheik do Narguile",
+    "match": "exata",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Dose de Jack Daniel´s 700ML",
+    "category": "Dose de Whisky",
+    "id": "dose-de-jack-daniel-s-700ml",
+    "url": "https://www.jauserve.com.br/dw/image/v2/BFJL_PRD/on/demandware.static/-/Sites-jauserve-master/default/dw60b2aded/7898945131025.png?sw=1800",
+    "source": "Jaú Serve",
+    "match": "garrafa Jack Daniel’s como referência; a dose 700ml é outro formato",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Dose Licor 1985 700ML",
+    "category": "Dose de Whisky",
+    "id": "dose-licor-1985-700ml",
+    "url": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m7wcpz6au581ad",
+    "source": "Shopee",
+    "match": "garrafa licor 1985 750ml; apresentação do copão 700ml diferente",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Dose Canelinha da Rocha 700ML",
+    "category": "Dose de Whisky",
+    "id": "dose-canelinha-da-rocha-700ml",
+    "url": "https://imgprd.martinsatacado.com.br/catalogoimg/559298/01_559298_01.jpg?ims=1000x&v=061020253004",
+    "source": "Martins Atacado",
+    "match": "garrafa Canelinha 900ml; copão 700ml é outro produto",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Combo Eternity Gin de Melancia",
+    "category": "Combo Gin",
+    "id": "combo-eternity-gin-de-melancia",
+    "url": "https://gigavc.vtexassets.com/arquivos/ids/170581/69bc3488959e614e55b04d5b.jpg?v=639095387065400000",
+    "source": "Giga",
+    "match": "apenas garrafa Gin Eternity Melancia; foto NÃO inclui 5 gelos do combo",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Combo Eternity Gin Tropical",
+    "category": "Combo Gin",
+    "id": "combo-eternity-gin-tropical",
+    "url": "https://acdn-us.mitiendanube.com/stores/001/043/122/products/19543-gin-eternity-tropical-fruits-900ml-20240626131948-6fc4d711bf3166f60617557176570108-1024-1024.webp",
+    "source": "Adega Zaidan",
+    "match": "apenas gin Eternity Tropical; não inclui gelos do combo",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Combo Gin Eternity Coco e Açaí",
+    "category": "Combo Gin",
+    "id": "combo-gin-eternity-coco-e-acai",
+    "url": "https://a-static.mlcdn.com.br/800x560/gin-eternity-coco-com-acai-900ml/rbbebidasdistribuidora/17744/e6eedccabd30a4b9f9117967389da302.jpeg",
+    "source": "Magazine Luiza",
+    "match": "apenas gin Eternity Coco e Açaí; não inclui gelos do combo",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Combo Gin Eternity Dark Berry",
+    "category": "Combo Gin",
+    "id": "combo-gin-eternity-dark-berry",
+    "url": "https://destro.fbitsstatic.net/img/p/gin-eternity-sabor-royale-dark-berry-900ml-91117/278115.jpg?h=1000&qs=ignore&v=202510131603&w=1000",
+    "source": "Destro",
+    "match": "apenas gin Eternity Dark Berry; não inclui Baly nem gelos",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Combo Gin Eternity Morango com Pessego",
+    "category": "Combo Gin",
+    "id": "combo-gin-eternity-morango-com-pessego",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "Combo Gin Eternity Maçã Verde",
+    "category": "Combo Gin",
+    "id": "combo-gin-eternity-maca-verde",
+    "url": "https://carrefourbrfood.vtexassets.com/arquivos/ids/206425500/4008499.png?v=638981070484430000",
+    "source": "Carrefour",
+    "match": "apenas gin Eternity Maçã Verde; não inclui gelos do combo",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Combo Gin Intencion",
+    "category": "Combo Gin",
+    "id": "combo-gin-intencion",
+    "url": "https://d3gdr9n5lqb5z7.cloudfront.net/fotos/991013-23-08-2023-13-16-35-678.jpg",
+    "source": "Tenda Atacado",
+    "match": "apenas gin Intencion; não inclui energético nem gelo",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Combo Gin Tanqueray",
+    "category": "Combo Gin",
+    "id": "combo-gin-tanqueray",
+    "url": "https://samsclub.vtexassets.com/arquivos/ids/180604/5000291020706_1.jpg?v=638145721294300000",
+    "source": "Sam's Club",
+    "match": "apenas gin Tanqueray; não inclui Red Bull nem gelo",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Dose de Eternity Melancia 700ML",
+    "category": "Dose de Gin",
+    "id": "dose-de-eternity-melancia-700ml",
+    "url": "https://gigavc.vtexassets.com/arquivos/ids/170581/69bc3488959e614e55b04d5b.jpg?v=639095387065400000",
+    "source": "Giga",
+    "match": "garrafa Eternity 900ml usada só como referência da marca; copão 700ml diferente",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Dose de Gin Eternity Tropical 700ML",
+    "category": "Dose de Gin",
+    "id": "dose-de-gin-eternity-tropical-700ml",
+    "url": "https://acdn-us.mitiendanube.com/stores/001/043/122/products/19543-gin-eternity-tropical-fruits-900ml-20240626131948-6fc4d711bf3166f60617557176570108-1024-1024.webp",
+    "source": "Adega Zaidan",
+    "match": "garrafa Eternity 900ml usada só como referência; copão 700ml diferente",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Dose de Gin Eternity Morango e Pêssego 700ML",
+    "category": "Dose de Gin",
+    "id": "dose-de-gin-eternity-morango-e-pessego-700ml",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "Dose de Gin Eternity Maça verde 700ML",
+    "category": "Dose de Gin",
+    "id": "dose-de-gin-eternity-maca-verde-700ml",
+    "url": "https://carrefourbrfood.vtexassets.com/arquivos/ids/206425500/4008499.png?v=638981070484430000",
+    "source": "Carrefour",
+    "match": "garrafa Eternity 900ml usada só como referência; dose/copo 700ml diferente",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Dose de Gin Eternity Dark Berry 700ML",
+    "category": "Dose de Gin",
+    "id": "dose-de-gin-eternity-dark-berry-700ml",
+    "url": "https://destro.fbitsstatic.net/img/p/gin-eternity-sabor-royale-dark-berry-900ml-91117/278115.jpg?h=1000&qs=ignore&v=202510131603&w=1000",
+    "source": "Destro",
+    "match": "garrafa Eternity 900ml usada só como referência; dose/copo 700ml diferente",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Dose de Busca Brisa 700ML",
+    "category": "Dose de Gin",
+    "id": "dose-de-busca-brisa-700ml",
+    "url": "https://http2.mlstatic.com/D_Q_NP_2X_668166-MLB114261250133_072026-E.webp",
+    "source": "Mercado Livre",
+    "match": "garrafa Busca Brisa, não representa o copão preparado 700ml",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Gelo de Água 5kg",
+    "category": "Gelo Água e Sabores",
+    "id": "gelo-de-agua-5kg",
+    "url": "https://http2.mlstatic.com/D_Q_NP_982363-MLA107324944445_022026-O.webp",
+    "source": "Mercado Livre",
+    "match": "exemplo de embalagem sem fabricante definido",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Gelo de Coco",
+    "category": "Gelo Água e Sabores",
+    "id": "gelo-de-coco",
+    "url": "https://static.wixstatic.com/media/760c75_26449f79d840443eb0e44bd0f73a5dae~mv2.png/v1/fill/w_750%2Ch_750%2Cq_90/760c75_26449f79d840443eb0e44bd0f73a5dae~mv2.png",
+    "source": "Côko fabricante",
+    "match": "foto publicitária da marca Côko coco; não é packshot unitário",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Gelo de Maracujá",
+    "category": "Gelo Água e Sabores",
+    "id": "gelo-de-maracuja",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "Gelo de Maçã Verde",
+    "category": "Gelo Água e Sabores",
+    "id": "gelo-de-maca-verde",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "Rothmans Azul",
+    "category": "Cigarro",
+    "id": "rothmans-azul",
+    "url": "https://supermercadosmachado.agilecdn.com.br/126283.jpg?v=597-2217684446",
+    "source": "Machado Atacado",
+    "match": "versão do maço pode variar",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Rothmans Vermelho",
+    "category": "Cigarro",
+    "id": "rothmans-vermelho",
+    "url": "https://pitstopbelezinha.com/cdn/shop/files/rothmans_red_series_grande.png?v=1731983791",
+    "source": "Pit Stop",
+    "match": "versão do maço pode variar",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Rothmans de Melancia",
+    "category": "Cigarro",
+    "id": "rothmans-de-melancia",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "Marlboro Melancia",
+    "category": "Cigarro",
+    "id": "marlboro-melancia",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "Marlboro Vermelho box",
+    "category": "Cigarro",
+    "id": "marlboro-vermelho-box",
+    "url": "https://tpackss.globaltobaccocontrol.org/sites/default/files/styles/500x500/public/pack_images/BRA_SP_HR1_008_1.JPG?itok=NW399-BJ",
+    "source": "TPackSS",
+    "match": "registro de embalagem antiga; revisar antes de publicar",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "Marlboro Maço branco",
+    "category": "Cigarro",
+    "id": "marlboro-maco-branco",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "Marlboro Ligth Box",
+    "category": "Cigarro",
+    "id": "marlboro-ligth-box",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  },
+  {
+    "name": "L&M Azul",
+    "category": "Cigarro",
+    "id": "l-m-azul",
+    "url": "https://tpackss.globaltobaccocontrol.org/sites/default/files/styles/500x500/public/pack_images/BRA_SAO_M1_02_036_0_0_2_1.JPG?itok=R7g6QIEd",
+    "source": "TPackSS",
+    "match": "registro de embalagem antiga; revisar antes de publicar",
+    "status": "referencia localizada - download pendente"
+  },
+  {
+    "name": "L&M Vermelho",
+    "category": "Cigarro",
+    "id": "l-m-vermelho",
+    "url": null,
+    "source": null,
+    "match": "sem correspondência suficiente",
+    "status": "solicitar foto ao distribuidor ou loja"
+  }
+]
