@@ -1,35 +1,20 @@
-# Adega Portelinha — fotos de produtos (V4)
+# Adega Portelinha V4.1 — atalhos e Instagram
 
-Foram encontrados 71 links de fotos referenciais em um catalogo de 85 produtos.
-Produtos ainda sem correspondencia segura: 14.
+Inclui ajustes da V4: imagens referenciais, checkout WhatsApp e correção de contraste do banner.
 
-## Como usar no Windows
-1. Descompacte o ZIP completamente. Nao rode nada dentro do ZIP.
-2. Dê dois cliques em `baixar-fotos.bat` com o computador conectado à internet.
-3. Aguarde. Consulte `resultado-do-download.csv`: cada produto mostra se a imagem foi baixada.
-4. Confira visualmente as fotos e as variantes. Alguns produtos possuem marca/volume nao especificados no catalogo.
-5. No GitHub, substitua `index.html` e `portelinha-pedidos.js`; envie os novos arquivos `portelinha-fotos.js` e toda a pasta `portelinha_assets`.
+## Mudanças nesta versão
+- Três cards de acesso rápido agora são botões navegáveis.
+- Encontre rápido: rola até o catálogo e foca a busca (busca e filtro funcionam enquanto digita).
+- Tudo organizado: leva diretamente às categorias.
+- Faça sua seleção: abre o carrinho, mesmo vazio.
+- Instagram oficial: https://www.instagram.com/adega.portelinha/ no menu desktop, rodapé e menu mobile.
+- Layout preto/branco otimizado para mobile/desktop.
 
-## Limitacoes importantes
-- O ambiente aqui nao permite baixar diretamente imagens hospedadas na web: os arquivos externos AINDA NAO ESTAO NO ZIP.
-- O script tenta baixar somente os links de imagem levantados na pesquisa. Alguns fornecedores podem bloquear download ou expirar URLs.
-- Produtos sem foto precisa continuam com a ilustracao padrao; nao mostramos marcas/variantes inventadas.
-- Fotos de distribuidores/lojas podem ter direitos autorais: antes de uso comercial definitivo, solicite autorizacao ou imagens oficiais.
-- Produtos com correspondencia marcada como variante/referencia precisam ser conferidos com estoque real da adega.
-- Pedidos continuam no WhatsApp com R$10 de frete fixo e minimo R$10.
+## Publicação
+Extraia o pacote e envie index.html, portelinha-pedidos.js, portelinha-fotos.js e a pasta portelinha_assets para a RAIZ do repositório rodrgxs/adega-portelinha. Nao envie a pasta de nivel superior como subpasta. Após o commit, a Vercel publica automaticamente.
 
-## Produtos sem foto confirmada
-- CAIPIRINHA DE AÇAÍ 1L
-- CAIPIRINHA DE AÇAÍ 700ML
-- Jack Daniel's Blueberry 1L
-- Ziggy
-- Carvão
-- Combo Gin Eternity Morango com Pessego
-- Dose de Gin Eternity Morango e Pêssego 700ML
-- Gelo de Maracujá
-- Gelo de Maçã Verde
-- Rothmans de Melancia
-- Marlboro Melancia
-- Marlboro Maço branco
-- Marlboro Ligth Box
-- L&M Vermelho
+## Sobre as imagens
+O pacote V4 possui referências para fotos e uma rotina de download para Windows (baixar-fotos.bat). Se não rodou essa rotina, algumas imagens ainda podem mostrar ilustracoes. Consulte relatorio-fotos.csv para conferir fontes e itens pendentes antes de usar comercialmente.
+
+## Segurança de pedidos
+Não faz pagamentos online; o cliente confirma a mensagem pelo WhatsApp. Estoque e entrega devem ser confirmados pela adega.
